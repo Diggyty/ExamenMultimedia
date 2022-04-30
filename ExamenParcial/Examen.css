@@ -1,0 +1,238 @@
+body{
+
+    font-family: Roboto;
+    margin: 0;
+}
+
+a1{
+    margin-top: 41px;
+    margin-right: 84px;
+    font-family: -apple-system, BlinkMacSystemFont, Segoe UI, 'Roboto', Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: #01A1E9;
+}
+
+a2{
+    margin-top: 41px;
+    margin-right: 84px;
+    font-family: -apple-system, BlinkMacSystemFont, Segoe UI, 'Roboto', Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: #01A1E9;
+}
+
+a3{
+    margin-top: 41px;
+    margin-right: 197px;
+    font-family: -apple-system, BlinkMacSystemFont, Segoe UI, 'Roboto', Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: #01A1E9;
+}
+
+header{
+    display: flex;
+    height: 100px;
+    width: 1512;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo{
+    display: flex;
+
+}
+
+.logo img{
+    height: 33.32px;
+    width: 40px;
+    margin-left: 197px;
+    margin-top: 24.15px;
+    margin-bottom: 42.53px;
+}
+
+.logo h2{
+    width: 153px;
+    height: 40px;
+    margin-top: 32;
+    margin-bottom: 28px;
+    font-family: -apple-system, BlinkMacSystemFont, Segoe UI, 'Roboto', Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: #6E29A9;
+}
+.imagengrande img{
+    height: 566px;
+    width: 1510;
+    position: relative;
+    display: inline-block;
+    text-align: left;
+}
+
+.textogrande {
+    position: absolute;
+    width: 601px;
+    height: 226px;
+    top: 256px;
+    left: 197px;
+    color: #FFFFFF;
+    font-weight: 900;
+    font-size: 96px;
+    font-family: -apple-system, BlinkMacSystemFont, Segoe UI, 'Roboto', Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    bottom: 184px;
+    line-height: 112.5px;
+}
+
+.h1{
+    display: inline-block;
+    width: 378px;
+    height: 75px;
+    top: 716px;
+    margin-left: 567px;
+    line-height: 75px;
+    color: #6E29A9;
+    font-weight: 900;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.las2deabajo {
+    margin-left: 100px;
+    width: 554px;
+    height: 389px;
+    margin-top: 50px;
+    right: 761px;
+    border-radius: 0%;
+    display: inline-block;
+    
+}
+
+.centrado{
+    float: right;
+    margin-right: 100px;
+    width: 460px;
+    height: 209px;
+    left: 855px;
+    margin-top: 50px;
+}
+
+
+
+.Patrocinadores{
+    display: inline-block;
+    width: 378px;
+    height: 75px;
+    top: 716px;
+    margin-left: 270px;
+    line-height: 75px;
+    color: #6E29A9;
+    font-weight: 900;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+
+.Imagenes img{
+    top: 96.57px;
+    width: 74px;
+    height: 74px;
+    display: inline-block;
+}  
+
+.Noticiero{
+    display: inline-block;
+    width: 378px;
+    height: 75px;
+    top: 716px;
+    margin-left: 600px;
+    line-height: 75px;
+    color: #6E29A9;
+    font-weight: 900;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+
+.Imaginario{
+    margin-left: 100px;
+    position: relative;
+}
+
+.texto1{
+    position: absolute;
+    width: 298px;
+    height: 28px;
+    top: 275px;
+    margin-left: 14px;
+    margin-right: 50px;
+    color: #FFFFFF;
+}
+
+.texto12{
+    position: absolute;
+    width: 298px;
+    height: 28px;
+    top: 308px;
+    margin-left: 14px;
+    margin-right: 50px;
+    color: #FFFFFF;
+}
+
+.texto2{
+    position: absolute;
+    width: 298px;
+    height: 28px;
+    top: 275px;
+    margin-left: 380px;
+    margin-right: 100px;
+    color: #FFFFFF;
+}
+
+.texto22{
+    position: absolute;
+    width: 298px;
+    height: 28px;
+    top: 308px;
+    margin-left: 380px;
+    margin-right: 550px;
+    color: #FFFFFF;
+}
+
+.texto3{
+    position: absolute;
+    width: 298px;
+    height: 28px;
+    top: 275px;
+    margin-left: 750px;
+    margin-right: 550px;
+    color: #FFFFFF;
+}
+
+.texto32{
+    position: absolute;
+    width: 298px;
+    height: 28px;
+    top: 308px;
+    margin-left: 750px;
+    margin-right: 550px;
+    color: #FFFFFF;
+}
+
+.finalito{
+    max-width: 1170px;
+    margin: auto;
+    
+}
+
+.finalito h2{
+    color: #6E29A9;
+}
+
+.final{
+    background-color: #1B314F;
+    padding: 70px 0;
+    height: 180px;
+    width: 1512;
+    align-items: center;
+}
+
+.final p{
+    font-size: 18px;
+    color: white;
+    text-align: right;
+}
+
+
+
+
+
